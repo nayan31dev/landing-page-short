@@ -1,0 +1,10 @@
+{
+  "description": "Streamline your design process with a user-friendly platform that enhances collaboration and creativity for designers and teams, boosting productivity.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
